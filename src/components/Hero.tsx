@@ -17,7 +17,7 @@ const Hero = () => {
         <div className="flex justify-start items-center">
           <div className="text-[60px] sm:text-[70px] md:text-[80px] lg:text-[83px] font-bold leading-tight text-white">
             <p data-aos="zoom-out-down">Welcome!</p>
-            <p data-aos="zoom-out-down">Let's Explore</p>
+            <p data-aos="zoom-out-down">Let Explore</p>
             <p data-aos="zoom-out-down">My Work Together.</p>
           </div>
         </div>

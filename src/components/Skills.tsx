@@ -18,10 +18,12 @@ const Skills = () => {
             Technologies I Work With
           </h2>
           <p className="text-white text-lg max-w-3xl mx-auto">
-            I'm a passionate web developer skilled in modern technologies like
-            HTML, CSS, JavaScript, and TypeScript. I enjoy building responsive,
-            interactive websites and am constantly learning new tools to
-            improve my craft.
+          <p>
+  I&apos;m a passionate web developer skilled in modern technologies like HTML,
+  CSS, JavaScript, and TypeScript. I enjoy building responsive, interactive
+  websites and am constantly learning new tools to improve my craft.
+</p>
+
           </p>
         </div>
 

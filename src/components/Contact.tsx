@@ -13,7 +13,7 @@ const Contact = () => {
               Get in Touch With Me
             </h2>
             <p className="text-lg leading-relaxed" data-aos="zoom-out-down">
-              I would love to hear from you! Whether it's a project inquiry, collaboration, or just to say hello, feel free to get in touch.
+              I would love to hear from you! Whether its a project inquiry, collaboration, or just to say hello, feel free to get in touch.
             </p>
             <div className="flex gap-4 items-center text-lg" data-aos="zoom-out-down">
               <IoMailOpenSharp size={30} className="text-[#F7DF1E]" />
