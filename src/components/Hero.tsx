@@ -15,9 +15,9 @@ const Hero = () => {
       <div className="container grid lg:grid-cols-2 h-[calc(100vh-60px)] px-4 sm:px-8 md:px-12">
         {/* Left column */}
         <div className="flex justify-start items-center">
-          <div className="text-[60px] sm:text-[70px] md:text-[80px] lg:text-[83px] font-bold leading-tight text-white">
+          <div className="text-[60px] sm:text-[70px] md:text-[80px] lg:text-[80px] font-bold leading-tight text-white">
             <p data-aos="zoom-out-down">Welcome!</p>
-            <p data-aos="zoom-out-down">Let Explore</p>
+            <p data-aos="zoom-out-down">Let&#39;s Explore</p>
             <p data-aos="zoom-out-down">My Work Together.</p>
           </div>
         </div>
